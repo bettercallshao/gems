@@ -31,6 +31,14 @@
       "spell": "zenith & nadir",
       "detail": "The zenith is an imaginary point directly above a particular location on the imaginary celestial sphere. The nadir is the direction pointing directly below a particular location to the source of gravity.",
       "url": "https://en.wikipedia.org/wiki/Zenith"
+    },
+    {
+      "labels": [
+        "culture"
+      ],
+      "spell": "dogma",
+      "detail": "The zenith is an imaginary point directly above a particular location on the imaginary celestial sphere. The nadir is the direction pointing directly below a particular location to the source of gravity.",
+      "url": "https://en.wikipedia.org/wiki/Dogma#Christianity"
     }
   ]
 }
