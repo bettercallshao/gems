@@ -5,7 +5,7 @@
         "software"
       ],
       "title": "mit tech review",
-      "detail": "Read latest techs",
+      "detail": "Read latest techs.",
       "url": "https://www.technologyreview.com"
     },
     {
@@ -13,7 +13,7 @@
         "astronomy"
       ],
       "title": "planck cmb data",
-      "detail": "Analyze and visualize CMB data",
+      "detail": "Analyze and visualize CMB data.",
       "url": "http://irsa.ipac.caltech.edu/cgi-bin/Gator/nph-scan?projshort=Planck"
     },
     {
@@ -21,7 +21,7 @@
         "software"
       ],
       "title": "conference finder",
-      "detail": "search and identify suitable conferences to attend",
+      "detail": "search and identify suitable conferences to attend.",
       "url": ""
     },
     {
@@ -29,7 +29,7 @@
         "software"
       ],
       "title": "py date",
-      "detail": "where players build conversational python bots and try to date each other romantically",
+      "detail": "where players build conversational python bots and try to date each other romantically.",
       "url": ""
     },
     {
@@ -37,7 +37,7 @@
         "philosophy"
       ],
       "title": "identity builder",
-      "detail": "artificially inteligently help reinforce personal identity by echoing what the subject wants to hear",
+      "detail": "artificially inteligently help reinforce personal identity by echoing what the subject wants to hear.",
       "url": ""
     },
     {
