@@ -47,6 +47,30 @@
       "title": "heap",
       "detail": "In computer science, a heap is a specialized tree-based data structure that satisfies the heap property: if P is a parent node of C, then the key (the value) of node P is greater than the key of node C.",
       "url": "https://en.wikipedia.org/wiki/Heap_(data_structure)"
+    },
+    {
+      "labels": [
+        "culture"
+      ],
+      "title": "speed reading",
+      "detail": "try to read fast? not sure how to proceed yet.",
+      "url": ""
+    },
+    {
+      "labels": [
+        "culture"
+      ],
+      "title": "voice training",
+      "detail": "try to immitate others? not sure how to proceed yet.",
+      "url": ""
+    },
+    {
+      "labels": [
+        "software"
+      ],
+      "title": "test oriented development",
+      "detail": "read about test oriented development",
+      "url": "https://en.wikipedia.org/wiki/Test-driven_development"
     }
   ]
 }

@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "labels": [
+        "culture"
+      ],
+      "title": "3 body",
+      "detail": "read from baidu books.",
+      "url": ""
+    },
+    {
+      "labels": [
+        "software"
+      ],
+      "title": "network modelling",
+      "detail": "videos on coursera.",
+      "url": "https://www.coursera.org/learn/social-economic-networks/home/welcome"
+    },
+    {
+      "labels": [
+        "culture"
+      ],
+      "title": "spanish",
+      "detail": "practice on coursera.",
+      "url": "https://www.duolingo.com"
+    },
+    {
+      "labels": [
+        "culture"
+      ],
+      "title": "read economics",
+      "detail": "bloomberg, the economist, etc.",
+      "url": "https://www.economist.com"
+    },
+    {
+      "labels": [
+        "software"
+      ],
+      "title": "r-lang",
+      "detail": "learn r language.",
+      "url": "https://www.tutorialspoint.com/r"
+    },
+    {
+      "labels": [
+        "software"
+      ],
+      "title": "machine learning from statistics (ubc)",
+      "detail": "read the book on kindle.",
+      "url": ""
+    },
+    {
+      "labels": [
+        "software"
+      ],
+      "title": "oo methodology with uml",
+      "detail": "lean from modelica tutorial.",
+      "url": "https://www.openmodelica.org/images/docs/tutorials/modelicatutorialfritzson.pdf"
+    },
+    {
+      "labels": [
+        "news"
+      ],
+      "title": "papers browsing",
+      "detail": "read academic papers on sfu library.",
+      "url": "http://cufts2.lib.sfu.ca/CRDB4/BVAS"
+    },
+    {
+      "labels": [
+        "news"
+      ],
+      "title": "podcast",
+      "detail": "browse podcasts.",
+      "url": "https://www.podbean.com/site/userCenter"
+    },
+    {
+      "labels": [
+        "software"
+      ],
+      "title": "design pattern",
+      "detail": "read about design patterns.",
+      "url": "http://www.oodesign.com"
+    },
+    {
+      "labels": [
+        "software"
+      ],
+      "title": "verilog-lang",
+      "detail": "read about verilog.",
+      "url": "https://www.edaplayground.com/"
+    },
+    {
+      "labels": [
+        "software"
+      ],
+      "title": "wechat broadcast",
+      "detail": "learn about wechat apis.",
+      "url": "http://admin.wechat.com/wiki/index.php?title=Guide_for_Message_API"
+    },
+    {
+      "labels": [
+        "news"
+      ],
+      "title": "ximalaya",
+      "detail": "browse ximalaya podcasts.",
+      "url": "http://www.ximalaya.com/explore"
+    },
+    {
+      "labels": [
+        "news"
+      ],
+      "title": "youtube",
+      "detail": "get on youtube.",
+      "url": "https://www.youtube.com"
+    }
+  ]
+}
