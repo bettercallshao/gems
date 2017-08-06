@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "labels": [
+        "software"
+      ],
+      "title": "mit tech review",
+      "detail": "Read latest techs",
+      "url": "https://www.technologyreview.com"
+    },
+    {
+      "labels": [
+        "astronomy"
+      ],
+      "title": "planck cmb data",
+      "detail": "Analyze and visualize CMB data",
+      "url": "http://irsa.ipac.caltech.edu/cgi-bin/Gator/nph-scan?projshort=Planck"
+    },
+    {
+      "labels": [
+        "software"
+      ],
+      "title": "conference finder",
+      "detail": "search and identify suitable conferences to attend",
+      "url": ""
+    },
+    {
+      "labels": [
+        "software"
+      ],
+      "title": "py date",
+      "detail": "where players build conversational python bots and try to date each other romantically",
+      "url": ""
+    },
+    {
+      "labels": [
+        "philosophy"
+      ],
+      "title": "identity builder",
+      "detail": "artificially inteligently help reinforce personal identity by echoing what the subject wants to hear",
+      "url": ""
+    },
+    {
+      "labels": [
+        "software"
+      ],
+      "title": "heap",
+      "detail": "In computer science, a heap is a specialized tree-based data structure that satisfies the heap property: if P is a parent node of C, then the key (the value) of node P is greater than the key of node C.",
+      "url": "https://en.wikipedia.org/wiki/Heap_(data_structure)"
+    }
+  ]
+}

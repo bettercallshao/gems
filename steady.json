@@ -1,10 +1,10 @@
 {
-  "words": [
+  "data": [
     {
       "labels": [
         "philosophy"
       ],
-      "spell": "nihilism",
+      "title": "nihilism",
       "detail": "extreme skepticism maintaining that nothing in the world has a real existence.",
       "url": "https://en.wikipedia.org/wiki/Nihilism#Nietzsche"
     },
@@ -12,7 +12,7 @@
       "labels": [
         "software"
       ],
-      "spell": "llvm",
+      "title": "llvm",
       "detail": "The LLVM compiler infrastructure project (formerly Low Level Virtual Machine) is a - collection of modular and reusable compiler and toolchain technologies - used to develop compiler front ends and back ends.",
       "url": "https://en.wikipedia.org/wiki/LLVM"
     },
@@ -20,7 +20,7 @@
       "labels": [
         "culture"
       ],
-      "spell": "exorcism",
+      "title": "exorcism",
       "detail": "Exorcism (from Greek - binding by oath) is the religious or spiritual practice of purportedly evicting demons or other spiritual entities from a person, or an area, they are believed to have possessed. Requested and performed exorcisms began to decline in the United States by the 18th century and occurred rarely until the latter half of the 20th century when the public saw a sharp rise due to the media attention exorcisms were getting. There was a 50% increase in the number of exorcisms performed between the early 1960s and the mid-1970s. In Christianity, exorcism is the practice of casting out demons. The exorcist may use prayers and religious material, such as set formulas, gestures, symbols, icons, amulets, etc. The exorcist often invokes God, Jesus and/or several different angels and archangels to intervene with the exorcism. In general, people considered to be possessed are not regarded as evil in themselves, nor wholly responsible for their actions, because possession is considered to be unwilling manipulation by a demon resulting in harm to self or others. Therefore, practitioners regard exorcism as more of a cure than a punishment. The mainstream rituals usually take this into account, making sure that there is no violence to the possessed, only that they be tied down if there is potential for violence.",
       "url": "https://en.wikipedia.org/wiki/Exorcism#Christianity"
     },
@@ -28,7 +28,7 @@
       "labels": [
         "astronomy"
       ],
-      "spell": "zenith & nadir",
+      "title": "zenith & nadir",
       "detail": "The zenith is an imaginary point directly above a particular location on the imaginary celestial sphere. The nadir is the direction pointing directly below a particular location to the source of gravity.",
       "url": "https://en.wikipedia.org/wiki/Zenith"
     },
@@ -36,7 +36,7 @@
       "labels": [
         "culture"
       ],
-      "spell": "dogma",
+      "title": "dogma",
       "detail": "The zenith is an imaginary point directly above a particular location on the imaginary celestial sphere. The nadir is the direction pointing directly below a particular location to the source of gravity.",
       "url": "https://en.wikipedia.org/wiki/Dogma#Christianity"
     }
