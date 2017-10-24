@@ -60,6 +60,14 @@
       "title": "theologian",
       "detail": "someone who is learned in theology or who speculates about theology",
       "url": "https://en.wikipedia.org/wiki/Theology"
+    },
+    {
+      "labels": [
+        "philosophy"
+        ],
+      "title": "teleology",
+      "detail": "A philosophy of teleology sees purpose in ends rather than stated causes, making the outcome the actual, or 'final' cause. When you see things in terms of teleology, you explain actions by their results.",
+      "url": "https://en.wikipedia.org/wiki/Teleology"
     }
   ]
 }
