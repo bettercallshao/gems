@@ -90,6 +90,13 @@
       "title": "consonant",
       "detail": "not a vowel.",
       "url": "https://en.wikipedia.org/wiki/Consonant"
+    },
+    {
+      "labels": [
+        ],
+      "title": "edifice",
+      "detail": "school of thought.",
+      "url": "https://en.wiktionary.org/wiki/edifice"
     }
   ]
 }
