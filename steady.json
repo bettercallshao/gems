@@ -66,8 +66,16 @@
         "philosophy"
         ],
       "title": "teleology",
-      "detail": "A philosophy of teleology sees purpose in ends rather than stated causes, making the outcome the actual, or 'final' cause. When you see things in terms of teleology, you explain actions by their results.",
+      "detail": "a philosophy of teleology sees purpose in ends rather than stated causes, making the outcome the actual, or 'final' cause. When you see things in terms of teleology, you explain actions by their results.",
       "url": "https://en.wikipedia.org/wiki/Teleology"
+    },
+    {
+      "labels": [
+        "philosophy"
+        ],
+      "title": "allegory",
+      "detail": "a metaphor to deliver a broader message about real-world phenomena.",
+      "url": "https://en.wikipedia.org/wiki/Allegory"
     },
     {
       "labels": [
@@ -75,6 +83,13 @@
       "title": "discourse",
       "detail": "written or spoken communication or debate.",
       "url": "https://en.wikipedia.org/wiki/Discourse"
+    },
+    {
+      "labels": [
+        ],
+      "title": "consonant",
+      "detail": "not a vowel.",
+      "url": "https://en.wikipedia.org/wiki/Consonant"
     }
   ]
 }
